@@ -48,11 +48,15 @@ The platform focuses on accessibility, community participation, and making impor
 ## 🛠️ Technology Stack
 The project uses modern web technologies to provide an accessible browser-based experience.
 
-- **Frontend:** [Add your frontend framework, e.g., React]
-- **Styling:** [Add your styling technology]
-- **Backend:** [Add your backend technology, if applicable]
-- **Database:** [Add your database, if applicable]
-- **Deployment:** [Add your hosting platform]
+**Tech Stack — MissingLink**
+
+- Frontend: React + TypeScript
+- UI Components: TSX
+- Build Tool: Vite
+- Styling: CSS / Tailwind CSS (if actively used)
+- Package Management: npm
+
+Backend and database: To be confirmed based on the project implementation.
 
 ## 🚀 Getting Started
 
