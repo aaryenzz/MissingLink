@@ -1,5 +1,6 @@
 # 🔗 MissingLink — Bringing People Back Together :
 https://missing-link-dusky.vercel.app/
+
 **A community-powered platform to help people find what's lost and reconnect with what matters.**
 
 
